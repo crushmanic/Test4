@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<title> About brown bears</title>
+</head>
+<style>
+    h5 {
+        color: blue;
+        font-size: 90%;
+        font-family: verdana;
+    }
+    h6{
+        color: red;
+        font-size: 10px;
+        background-color: transparent;
+
+    }
+   
+    a:link{
+        color: pink;
+        background-color: transparent;
+         text-decoration: none;
+    }
+    
+    a:visited{
+        color: orange;
+        background-color: visible;
+        text-decoration: none;
+    }
+
+    a:hover{
+        color:red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    a:active{
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    table th,td{
+        border: 1px solid black
+    }
+
+</style>
+<body style="background-color: antiquewhite;">
+<h2 style="font-size:50px;">Brown bear</h2>
+<p><br><strong>brown bears(Grizzly bears) can be found in Brown bears can be found in the northern areas of Europe, Asia and North America. <br>They live in all types of habitats, which includes mountains, forests, grasslands and even deserts</strong></p>
+<h3><b>Features that brown bears have are:</b> <hr> </h3>
+<ol><p><br><li>A slight hump above their shoulders, round ears</li></p>
+<p><br> <li>A long snout and big paws with long, curved claws that it uses for digging</li></p>
+<p><br><li> Unlike the black bear, it can't climb trees</li></p>
+<p><br> <li>It can weigh between 350-1,500 pounds.</li></p>
+<p><br> <li>They are omnivorous and eat animals and plants, but most of their diet consists of grass, leaves, berries and nuts.</li></p>
+<p title = 'brown "bears are also called" Grizzly bears'><br><li>brown bears are also called Grizzly bears</li></p></ol>
+<p> <br> if you want to learn more about brown bears:</p>
+<img src="brown-bear.jpg" alt="A brown bear" width="400" height="250">
+ <h4><a href="https://www.nationalgeographic.com/animals/mammals/facts/brown-bear">visit nationalgeographic for more info </a></h4>
+
+<h5>Differences between a brown bear and a black bear</h5>
+<img src="diff.btw brown bear and black bear.jpg" width="400px" height="250px">
+<p> if you have any questions click the button below :</p>
+<h6> <a href="mailto: youngapex2906@gmail.com"> <button type="button" onclick="mailto"> click to send a mail</button></a></h6>
+
+<table style="width:100%">
+    <tr>
+      <th>Brown bear</th>
+      <th>Black bear</th>
+    </tr>
+    <td>Front toes in straighter line</td>
+    <td>front toes form an obvious arc</td>
+    <tr>
+        <td>it has a hump between the shoulders</td>
+        <td>no hump between the shoulders</td>
+    </tr>
+    <tr>
+        <td> it has long light claws</td>
+        <td>it has short dark claws</td>
+    </tr>
+    <tr>
+        <td>They have short rounded ears</td> 
+        <td> they have taller ears</td>
+    </tr>
+    <tr>
+        <td> they have a  dish-shaped face</td>
+        <td> they have a  straight face profile</td>
+    </tr>
+    <h7> The species of bears </h7>
+<p>There are only eight species of bears in the world which are:</p>
+<p><ul>  
+    <li>Asiatic black bears (also called moon bears)</li>
+    <li>brown bears (which include grizzly bears)</li>
+    <li>giant pandas</li>
+    <li>North American black bears</li>
+    <li> polar bears</li>
+    <li>sloth bears</li>
+    <li>spectacled bears (also called Andean bears)</li>
+    <li>sun bears.</li>
+</ul></p>
+
+</body>
+</html>
